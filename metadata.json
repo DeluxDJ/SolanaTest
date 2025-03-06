@@ -1,0 +1,12 @@
+{
+    "name": "FAITH",
+    "symbol": "Faith",
+    "description": "Only Possible On Solana",
+    "image": "https://atoshi.org/pch/img/icon-miaojizhifu.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+}
